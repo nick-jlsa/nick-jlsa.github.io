@@ -1,0 +1,12 @@
+= Blog Post Title
+:hp-tags: Web, HTML, CSS, Drupal
+
+
+Now is the time for all good men to come to the aid of their country.
+
+.This is a list title
+- Item 1
+- Item 2
+- Item 3
+
+*ASCII Writers Guide* - http://asciidoctor.org/docs/asciidoc-writers-guide/#lists-lists-lists
